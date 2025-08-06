@@ -10,9 +10,10 @@ This portfolio documents my learning journey in Public Policy Analytics (MUSA 50
 Advanced spatial analysis and data science for urban planning and public policy.
 
 ## Portfolio Structure
+
 - **Weekly Notes:** My learning reflections and key concepts
 - **Labs:** Completed assignments and analyses
-- **Final Project:** Capstone modeling challenge
+
 
 ## About Me
 I am an Associate Professor in the Department of City and Regional Planning at the University of Pennsylvania. I also direct the Master of Urban Spatial Analytics program. This semester, I am teaching MUSA 5080: Public Policy Analytics - we are building portfolios throughout the semester so this is my little demo sampler!
