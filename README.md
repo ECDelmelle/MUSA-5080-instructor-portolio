@@ -3,7 +3,7 @@
 This template helps you create a professional portfolio for Public Policy Analytics coursework.
 
 ## Student Portfolio Examples
-- [Instructor Demo Portfolio](https://ecdelmelle.github.io/MUSA-5080-instructor-portfolio/)
+- [Instructor Demo Portfolio]([https://ecdelmelle.github.io/MUSA-5080-instructor-portolio/])
 
 ## Quick Setup
 1. **Personalize:** Edit `_quarto.yml` to include your name
